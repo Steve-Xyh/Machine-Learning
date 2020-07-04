@@ -1,0 +1,12 @@
+.DS_Store
+references/*
+venv-ML/
+
+**/.vscode
+**/__pycache__/
+**/keynotes/
+**/*.h5
+**/*.pdf
+**/*.doc
+**/*.docx
+201730*/
